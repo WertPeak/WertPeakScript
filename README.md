@@ -1,0 +1,2 @@
+# WertPeakScript
+by Script Wertpeak
